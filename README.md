@@ -1,1 +1,1 @@
-# Find-named-entities-from-tweets
+Predict Named Entities from tweets
