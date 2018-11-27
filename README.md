@@ -1,1 +1,1 @@
-Predict Named Entities from tweets
+Recognize Named Entities from tweets using LSTM
